@@ -24,3 +24,6 @@ dist/
 # 파일
 *.csv
 *.xlsx
+*.tsv
+*.tmp
+*.json
