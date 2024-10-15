@@ -27,3 +27,6 @@ dist/
 *.tsv
 *.tmp
 *.json
+
+# CatBoost info 폴더 무시
+Loan_Approval_Prediction/catboost_info/
